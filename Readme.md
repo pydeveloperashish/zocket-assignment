@@ -6,4 +6,4 @@
 6) Then click on download button and your transformed images will get downloaded in the zip format.
 7) Extract it and check.
 
-8) Note:- For the Backend Purpose, The input image user will select will be stored in the 'database' folder and the transformed images will be stored in 'output' folder.
+8) Note:- For the Backend Purpose, The image user will select as an input, will be stored in the 'database' folder and the transformed images will be stored in 'output' folder.
